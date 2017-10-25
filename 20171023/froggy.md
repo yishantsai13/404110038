@@ -5,7 +5,7 @@
 3. justify-content:space-around
 4. justify-content:space-between
 5. align-items:flex-end
-6. justify-content:center;
+6. justify-content:center
    align-items:center;
 7. justify-content:space-around;
    align-items:flex-end;
